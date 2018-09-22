@@ -5,7 +5,7 @@ var _WM_APP_PROPERTIES = {
   "homePage" : "Main",
   "name" : "SalesVision_22Sep",
   "platformType" : "WEB",
-  "securityEnabled" : "true",
+  "securityEnabled" : "false",
   "supportedLanguages" : "en",
   "type" : "APPLICATION",
   "version" : "1.0",
